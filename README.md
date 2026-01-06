@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Poddar</h1>
-<h3 align="center"Mechanical engineering student | CAD Design | Frontend Developer
+<h3></h3> align="center"Mechanical engineering student | CAD Design | Frontend Developer
 Designing engineering solutions and modern web interfaces.</h3>
 
 <img align="right" alt="Cad Model Design" width="400" src="https://imgs.search.brave.com/O6F37CsczxEVHnyhV8Xop63vJ4bowKbih5OT0enKr0c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzk3L2Rk/L2NkLzk3ZGRjZDUw/Y2I3NzkzZDE4Y2U3/YzUwZjUyNWRiZTQz/LmdpZg.jpeg">
