@@ -7,8 +7,8 @@ Designing engineering solutions and modern web interfaces.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poddarvaibhav2002&label=Profile%20views&color=0e75b6&style=flat" alt="poddarvaibhav2002" /> </p>
 
 - 🌱 I’m currently learning **
-- CAD Designer(Solidworks,CatiaV5,NX)
-- Frontend Developer(HTML,CSS,Javascript) etc**
+             CAD Designer(Solidworks,CatiaV5,NX)
+             Frontend Developer(HTML,CSS,Javascript) **
 
 - 📫 How to reach me **poddarvaibhav2@gmail.com**
 
