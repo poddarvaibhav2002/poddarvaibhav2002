@@ -25,4 +25,3 @@ Designing engineering solutions and modern web interfaces.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poddarvaibhav2002&show_icons=true&locale=en" alt="poddarvaibhav2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poddarvaibhav2002&" alt="poddarvaibhav2002" /></p>
