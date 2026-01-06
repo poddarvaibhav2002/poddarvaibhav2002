@@ -21,7 +21,5 @@ Designing engineering solutions and modern web interfaces.</h3>
 <a href="https://discord.gg/1297142937888620575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1297142937888620575" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poddarvaibhav2002&show_icons=true&locale=en&layout=compact" alt="poddarvaibhav2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poddarvaibhav2002&show_icons=true&locale=en" alt="poddarvaibhav2002" /></p>
 
