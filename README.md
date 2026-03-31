@@ -8,7 +8,8 @@ Designing engineering solutions and modern web interfaces.</h3>
 
 - 🌱 I’m currently learning **
              CAD Designer(Solidworks,CatiaV5,NX) and 
-             Frontend Developer(HTML,CSS,Javascript) **
+             Frontend Developer(HTML,CSS,Javascript)
+             N8N Automation Engineer
 
 - 📫 How to reach me **poddarvaibhav2@gmail.com**
 
